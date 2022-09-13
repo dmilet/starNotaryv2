@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "openzeppelin-solidity": "^4.6.0",
+    "solc-js": "^1.0.1",
+    "truffle": "^5.5.29"
+  }
+}
